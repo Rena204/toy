@@ -1,0 +1,3 @@
+Toy [id=2, name=Toy 2, frequency=1]
+Toy [id=3, name=Toy 3, frequency=2]
+Toy [id=1, name=Toy 1, frequency=3]
